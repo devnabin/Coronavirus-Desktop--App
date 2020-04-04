@@ -1,0 +1,17 @@
+{
+  "name": "coronavirus-update",
+  "version": "1.0.0",
+  "description": "This app show the number of cases of coronavirus ",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^8.2.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {},
+  
+
+  "author": "Nabin Bhandari",
+  "license": "ISC"
+}
