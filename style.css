@@ -26,21 +26,27 @@ body{
     border-radius: 50%;
     }
 .box:hover{
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     box-shadow: inset 5px 5px 4px rgb(75, 73, 73) , inset -5px -5px 4px rgb(255, 255, 255) ;    
 }
 
 h2{
     font-size: 30px;
-    color: black;
+    /* color: black; */
+    color: white;
 }
 h3{
     font-size: 20px;
-    color: black;
+    /* color: black; */
+    color: white;
+
 }
 h1{
     font-size: 30px;
-    color: black;
+    /* color: black;
+     */
+color: orangered;
+
     margin-left: 40%;
     font-family: 'Lato', sans-serif;
     padding: 20px;
